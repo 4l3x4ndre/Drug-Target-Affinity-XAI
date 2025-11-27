@@ -31,8 +31,8 @@ Our analysis of the model's latent space reveals that its decision-making is hig
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone https://github.com/4l3x4ndre/Drug-Target-Affinity-XAI
+    cd drug-target-affinity-xai
     ```
 
 2.  **Install dependencies:**
