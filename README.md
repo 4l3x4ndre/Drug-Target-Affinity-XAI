@@ -1,3 +1,14 @@
+---
+title: Explainable Drug Target Affinity
+emoji: 🧬
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: 1.39.0
+app_file: app/main.py
+pinned: false
+---
+
 # Explainable Drug-Target Affinity Prediction
 
 This repository hosts the code and experiments for the project **"Explainable Drug-Target Affinity Prediction"**. 
