@@ -20,6 +20,13 @@ Our analysis of the model's latent space reveals that its decision-making is hig
 - **Latent Space Analysis**: Exploration of the model's chemical manifold and context-dependent decision rules.
 - **Interactive Dashboard**: A Streamlit-based web application for real-time exploration of model explanations.
 
+<figure>
+  <img src="docs/MGraphDTA_model.svg" alt="MGraphDTA model">
+  <figcaption>
+    Figure 1: MGraphDTA model architecture combining GNN for drug representation and CNN for protein sequences. The implementation used comes from the <a href="https://github.com/guaguabujianle/MGraphDTA">official repository</a>.
+  </figcaption>
+</figure>
+
 ## 🛠️ Installation
 
 1.  **Clone the repository:**
