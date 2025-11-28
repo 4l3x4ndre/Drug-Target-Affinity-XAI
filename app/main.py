@@ -65,7 +65,7 @@ def main():
             st.rerun()
 
     # Load Model (Global)
-    with st.spinner("Loading model..."):
+    with st.spinner("Loading model... (1-2 minutes)"):
         explainer = load_model(device, dataset_name=dataset_name)
         gnn_explainer_model = explainer.model
         gnn_explainer = load_gnn_explainer(gnn_explainer_model, device, dataset_name=dataset_name)
