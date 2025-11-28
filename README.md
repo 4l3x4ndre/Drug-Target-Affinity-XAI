@@ -47,6 +47,8 @@ All data used are publicly available. You can access them here:
 - **Davis and KIBA**: [DeepDTA Repository](https://github.com/hkmztrk/DeepDTA/tree/master/data)
 - **ToxCast**: [PADME Repository](https://github.com/simonfqy/PADME)
 
+We used the link provided in [MGraphDTA](https://github.com/guaguabujianle/MGraphDTA) for direct access.
+
 For training, ensure the data is placed in `MGraphDTA/regression/data/`.
 
 ## 🖥️ Usage & Training
