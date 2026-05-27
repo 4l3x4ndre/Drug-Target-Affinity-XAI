@@ -12,6 +12,8 @@ The prediction of drug-target affinity (DTA) is a cornerstone of modern drug dis
 
 Our analysis of the model's latent space reveals that its decision-making is highly context-dependent. We demonstrate the ability to generate plausible, fine-grained interaction hypotheses by identifying specific atom-amino acid pairs deemed important by the model. This XAI framework serves to build trust in DTA predictions and transforms black-box models into collaborative tools that can generate testable hypotheses.
 
+> [Read the manuscript](https://github.com/4l3x4ndre/Drug-Target-Affinity-XAI/blob/main/Explainable%20Drug-Target%20Affinity%20Prediction.pdf)
+
 ## 🚀 Contributions
 
 - **MGraphDTA Reproduction**: High-fidelity reproduction of the MGraphDTA model on the KIBA benchmark dataset.
@@ -114,7 +116,6 @@ This project also uses for [Advanced AI explainability for PyTorch GitHub reposi
 For the XAI framework, implementation details, and specific findings presented here, please refer to the accompanying manuscript in this repository:
 
 > **Amrani, A.** (2025). *Explainable Drug-Target Affinity Prediction*. Department of Computer Science, Norwegian University of Science and Technology.
-> [WILL BE ADDED SOON]
 
 ## 📂 Repository Structure
 
